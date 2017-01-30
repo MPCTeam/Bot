@@ -235,8 +235,8 @@ function create_config( )
     "leave_ban",
     "supergroup",
     "whitelist",
-    "msg_checks"
-    "Plugins"
+    "msg_checks",
+    "Plugins",
     },
     sudo_users = {219410991)},--Sudo users
     moderation = {data = 'data/moderation.json'},
